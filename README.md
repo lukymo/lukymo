@@ -1,3 +1,4 @@
+[![MasterHead](https://share.creavite.co/APbzAG89mXY8npnO.gif)](https://lukym.cf/)
 <h1 align="center">Hi 👋, I'm @lukymo (Lukym)</h1>
 <h3 align="center">I'm frontend developer from Slovakia</h3>
 
