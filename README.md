@@ -1,3 +1,4 @@
+![Lukym](https://user-images.githubusercontent.com/119974257/206155259-0e5f7a52-ee05-4747-bf36-aae14ad7e060.gif)
 <h1 align="center">Hi 👋, I'm @lukymo (Lukym)</h1>
 <h3 align="center">I'm frontend developer from Slovakia</h3>
 
