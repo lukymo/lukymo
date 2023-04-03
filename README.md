@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukymo&label=Profile%20views&color=0e75b6&style=flat" alt="lukymo" /> </p>
 
-- 🔭 I’m currently working on [ALM Company](https://almcompany.sk/)
+- 🔭 I’m currently working on [Discord bot Laki]()
 
-- 🌱 I’m currently learning **courses**
-
-- 👨‍💻 All of my projects are available at [https://lukym.cf/](https://lukym.cf/)
-
-- ⚡ Fun fact **I am funny**
+- 👨‍💻 My portfolio is available at [https://lukym.gq/](https://lukym.cf/)
 
 
 </p>
