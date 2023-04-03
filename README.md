@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Discord bot [Laki]()
 
-- 👨‍💻 My portfolio is available at [https://lukym.gq/](https://lukym.cf/)
+- 👨‍💻 My portfolio is available at [https://lukym.gq/](https://lukym.gq/)
 
 
 </p>
